@@ -17,7 +17,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rollup": "^4.14.2"
+    "@babel/preset-env": "^7.24.4",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "rollup": "^4.14.2",
+    "ts-jest": "^29.1.2"
   },
   "dependencies": {
     "@microsoft/api-extractor": "^7.43.1",
